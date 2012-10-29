@@ -10,4 +10,8 @@ This script is used to process bandcamp purchases.  It will
           01 track.mp3
 4) prints out the mktorrent command required to make the .torrent file
 
+TODO:
+    rename album directories properly ex. [year] (encoding)  
+        -- boomkat has zips named flac-*
+    flag for making torrent file after processing ( -t --torrent )
           
